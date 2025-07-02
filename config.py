@@ -1,6 +1,6 @@
 # --- MT5 Connection Settings ---
-MT5_LOGIN = 102641850  # Replace with your MT5 account number
-MT5_PASSWORD = "[oM7O7?;"  # IMPORTANT: Replace with your MT5 password
+MT5_LOGIN = 152851811  # Replace with your MT5 account number
+MT5_PASSWORD = "aO07Oa'i"  # IMPORTANT: Replace with your MT5 password
 MT5_SERVER = "FBS-Demo"      # IMPORTANT: Replace with your MT5 server name
 
 # --- Live Trading Parameters ---
