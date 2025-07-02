@@ -112,10 +112,9 @@ The reporting system provides:
 - Performance metrics
 
 ## Forward Testing Guide
-
 ### Step 1: Initial Setup
 1. Install MetaTrader 5 desktop application
-2. Configure MT5 account settings
+2. Configure MT5 account settings 
 3. Verify data feed connection
 4. Test API connectivity
 
@@ -124,7 +123,7 @@ The reporting system provides:
 2. Configure:
    - MT5 credentials
    - Trading parameters (identical to backtest)
-   - Risk management settings
+   - Risk management settings (Or use default settings)
    - Data collection parameters
 
 ### Step 3: Running Forward Tests
