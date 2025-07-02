@@ -99,7 +99,7 @@ EURUSD-BOT is a sophisticated trading bot designed for the EUR/USD currency pair
 1. Navigate to the backtesting directory
 2. Execute the backtesting script:
    ```bash
-   python backtest.py --config your_config.json
+   python backtest.py
    ```
 3. Monitor the execution and wait for results
 
@@ -130,7 +130,7 @@ The reporting system provides:
 1. Ensure MT5 is running and logged in
 2. Start the forward testing module:
    ```bash
-   python forward_test.py --config live_config.json
+   python forward_test.py
    ```
 3. Monitor real-time execution
 
